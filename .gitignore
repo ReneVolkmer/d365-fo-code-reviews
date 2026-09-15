@@ -1,1 +1,4 @@
 .env
+
+# D365 metadata object index -- regenerable, ~48 MB, and enumerates customer object names
+cache/
